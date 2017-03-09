@@ -15,7 +15,6 @@ public class UdacityFunEffects : MonoBehaviour {
 
     public Teleport cube;
     public Teleport sphere;
-
     private GameObject activeShape;
     private bool isSunUp = true;
 
