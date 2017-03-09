@@ -18,3 +18,11 @@ What will I learn?
     How to customize a preexisting experience in Unity
     How to get a project from Unity to Android or iOS
 --------------------------------------------------------
+To get started with Unity3D, you need to download and install it by following these steps:
+
+    You can download Unity3D Personal Edition for free.
+    https://unity3d.com/get-unity/download?ref=personal
+    After following the download link above, just click the "Download Installer" option.
+    Once the installer is downloaded, extract and run the installer.
+
+During the install process, make sure to include the "Example Project". If you forget to include the example project, you can download and install it separately from the link above, then click on "Additional Downloads" and select the "Example Project".
