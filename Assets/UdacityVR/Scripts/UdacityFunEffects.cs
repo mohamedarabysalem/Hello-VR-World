@@ -92,7 +92,7 @@ public class UdacityFunEffects : MonoBehaviour {
         }
     }
 
-    private IEnumerator AnimateSun(bool isSunUp)
+    public IEnumerator AnimateSun(bool isSunUp)
     {
         Quaternion target = Quaternion.Euler(isSunUp ? SUN_UP : SUN_DOWN);
         float startAngle = Quaternion.Angle(sunLight.transform.rotation, target);
